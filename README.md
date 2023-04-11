@@ -1,5 +1,8 @@
 ###oiii eu sou o jaderson farias, studante de programação pela rocktseat 😁😁!
 
+##about
+
+i' m a web developer. and, i'm studying web development at [rocktseat].(https//rocktseat.com.br/)
 
 ## Techs & Tools
 
