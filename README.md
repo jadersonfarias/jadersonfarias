@@ -1,4 +1,4 @@
-###oiii eu sou o jaderson farias, studante de programação pela rocktseat 😁😁!
+###hi there, i'm jaderson faria 😁🧑‍💻
 
 ##about
 
