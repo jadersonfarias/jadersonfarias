@@ -2,7 +2,7 @@
 
 ##about
 
-i' m a web developer. and, i'm studying web development at [rocktseat](https://rocktseat.com.br/)
+i' m a web developer. and, i'm studying web development at [rocktseat](https://rocktseat.com.br/).
 
 ## Techs & Tools
 
@@ -14,6 +14,15 @@ i' m a web developer. and, i'm studying web development at [rocktseat](https://r
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components&logoColor=DB7093)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
+
+
+
+
+
+
 
 ## Contact me
                 
