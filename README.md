@@ -17,7 +17,9 @@ i' m a web developer. and, i'm studying web development at [rocktseat](https://r
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components&logoColor=DB7093)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
-
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Vanilla Extract](https://img.shields.io/badge/-Vanilla%20Extract-05122A?style=flat&logo=vanilla-extract&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=2D3748)&nbsp;
 
 
 
